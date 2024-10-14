@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: Horde Battleground Victory
+## Notes: Hoo Ho
+## Author: Jimma
+## Version: 1.0
+## SavedVariables:
+## IconTexture: Interface\AddOns\HordeBattlegroundVictory\icon
+HordeBattlegroundVictory.lua
